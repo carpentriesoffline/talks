@@ -72,6 +72,7 @@ When asked about saving ip rules, just select yes.
 ```bash
 wget https://raw.githubusercontent.com/EESSI/eessi-demo/main/scripts/install_cvmfs_eessi.sh
 sudo bash install_cvmfs_eessi.sh
+export EESSI_SOFTWARE_SUBDIR_OVERRIDE=aarch64/generic
 source /cvmfs/software.eessi.io/versions/2023.06/init/bash
 ```
-Add the last line to /etc/profile to make it persistent for all users
+Add the last two lines to /etc/profile to make it persistent for all users
