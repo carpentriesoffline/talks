@@ -7,7 +7,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v3
       - name: Compile slide
-		  working-directory: ./Presentations/CW24_lightning_talk
+	working-directory: ./Presentations/CW24_lightning_talk
         uses: xu-cheng/latex-action@v2
         with:
           root_file: CW24.tex
