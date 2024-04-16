@@ -9,7 +9,7 @@ jobs:
       - name: Compile slide
         uses: xu-cheng/latex-action@v2
         with:
-	  working-directory: ./Presentations/CW24_lightning_talk
+	  working-directory: Presentations/CW24_lightning_talk
           root_file: CW24.tex
           latexmk_use_lualatex: true
       - name: Upload slide PDF file
