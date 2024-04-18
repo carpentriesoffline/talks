@@ -1,7 +1,7 @@
 # SC24 Tutorial Submission
 https://sc24.supercomputing.org/program/tutorials/
 ## Abstract
-Building a miniHPC using Raspberry Pi, or similar SBCs, for the purposes of running HPC Carpentries workshops, workshops for training administrators and prototyping scripts
+Running workshops related to High Perfomance Computing can be difficult. Building a miniHPC using Raspberry Pi, or similar SBCs, for the purposes of running HPC Carpentries workshops, workshops for training administrators and prototyping scripts
 
 ## Description
 ### Tutorial Goals
@@ -9,9 +9,10 @@ Building a miniHPC using Raspberry Pi, or similar SBCs, for the purposes of runn
 2. Identifying and installing the required software headnode (login node)
 3. Installing modules with EESSI
 4. Identifying and installing the required software for compute nodes
+5. Using the miniHPC to deliver workshops
 
 ### Relevance for conference attendees
-The purpose of the miniHPC is to train users and administrators of HPCs
+The purpose of the miniHPC is to train users and administrators of HPCs. Thus, anyone with an interest in training
 
 ### Target audience
 1. HPC Carpentries Instructors
