@@ -45,20 +45,31 @@ Intermediate
 
 ## Detailed outline
 1. Identifying the hardware requirements for a miniHPC
-2. Preparation of an SD card or SSD for use with an RPi
-3. Installing software
-4. Configuring software for the head node
-5. Configuring software for compute nodes
-6. Installing EESSI
-7. 
+   - The Raspberry Pi and other suitable single board computers
+   - Using PoE to avoid excessive cabling
+   - PXE for diskless compute nodes
+   - network cabling
+   - Internet access (or not)
+3. Preparation of an SD card or SSD for use with an RPi
+   - using Imager by Raspberry Pi
+5. Installing software
+   - identify packages required
+   - using apt-get to install packages
+6. Configuring software for the head node
+7. Configuring software for compute nodes
+8. Installing EESSI
+9. Adding an access point (AP) to the cluster
+   - using the head node as an AP
+   - creating an AP with RaspAP
 
 ## Cohesion measures
-
+The presenters of this tutorial are all developers of the CarpentriesOffline project. They will take turns presenting parts while the other presenters act as helpers
 
 ## Detailed Outline
 
 
 ## Hands-on feasibility check/analysis
+It is the first time this tutorial will be presented. We will be submitting this tutorial in similar formats to CarpentryCon Heidelberg and RSECon24 which will occur before SC24. Since the tutorial is aimed at instructors and developers we hope to get feedback from participants concerning further development of the CarpentriesOffline miniHPC project as well as the content of the tutorial for future sessions. 
 
 ## Resume or CV for each presenter
 
