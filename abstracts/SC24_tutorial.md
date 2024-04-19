@@ -14,40 +14,43 @@ Building a miniHPC for delivering HPC Carpentries and other HPC-related workshop
 ## Abstract
 There are several problems with gaining access to an HPC to run a workshop for students. An alternative is to build a mini HPC out of single board computers (SBC) such as Raspberry Pi computers but this is not an easy task. This tutorial aims to introduce the CarpentriesOffline miniHPC solution which allow instructors without specialised HPC hardware and software knowledge to run HPC Carpentries workshops.
 
-Building a miniHPC using Raspberry Pi, or similar SBCs, for the purposes of running HPC Carpentries workshops, workshops for training administrators and prototyping scripts
 
 ## Description
 ### Tutorial Goals
-1. Setting up a RPi
-2. Identifying and installing the required software headnode (login node)
-3. Installing modules with EESSI
-4. Identifying and installing the required software for compute nodes
-5. Using the miniHPC to deliver workshops
+1. Introduction to CarpentriesOffline
+2. Setting up an RPi
+3. Identifying and installing the required software head node (login node)
+4. Installing modules with EESSI
+5. Identifying and installing the required software for compute nodes
+6. Using the miniHPC to deliver workshops
+7. Discussion and Q&A
 
 ### Relevance for conference attendees
-The purpose of the miniHPC is to train users and administrators of HPCs. Thus, anyone with an interest in training
+The purpose of the miniHPC is to train users and administrators of HPCs. The miniHPC can also be used for the design and debugging of workflows. Thus, anyone with an interest in training or the development of pipelines would benefit from this session.
 
 ### Target audience
 1. HPC Carpentries Instructors
 2. HPC Admin workshop instructors
-3. Users or admins that would like to have a miniHPC at had for prototyping
+3. Developers of scripts and pipelines
 
 ### Content level
-Basic
+Intermediate
 
 ### Audience prerequisites
 2. Basic knowledge of bash scripting
-3. Basics of using HPCs
+3. Basic knowledge of using HPCs
 4. Basic knowledge of Linux and how to install software
 
 ### Tutorial content
 
 ## Detailed outline
 1. Identifying the hardware requirements for a miniHPC
-2. Preparation of an SD card or SSD for use with a RPi
+2. Preparation of an SD card or SSD for use with an RPi
 3. Installing software
-4. Configuring software for headnode
+4. Configuring software for the head node
 5. Configuring software for compute nodes
+6. Installing EESSI
+7. 
 
 ## Cohesion measures
 
