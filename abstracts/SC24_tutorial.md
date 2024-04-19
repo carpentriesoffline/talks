@@ -32,16 +32,22 @@ The purpose of the miniHPC is to train users and administrators of HPCs. The min
 1. HPC Carpentries Instructors
 2. HPC Admin workshop instructors
 3. Developers of scripts and pipelines
+4. Enthusiast that would like to build their a miniHPC of their own
 
 ### Content level
 Intermediate
 
 ### Audience prerequisites
+1. Attendees will need a laptop and, if possible, if they own any Raspberry Pi 4 or 5s to bring them along.
 2. Basic knowledge of bash scripting
 3. Basic knowledge of using HPCs
 4. Basic knowledge of Linux and how to install software
 
 ### Tutorial content
+The tutorial will involve the preparation of RPi computers to create a miniHPC that can be used for training and prototyping. Ideally, the desired time for the tutorial is a full day but it is possible to do a condensed version of the tutorial in half a day.
+
+## Cohesion measures
+The presenters of this tutorial are all developers of the CarpentriesOffline project. They will take turns presenting parts while the other presenters act as helpers
 
 ## Detailed outline
 1. Identifying the hardware requirements for a miniHPC
@@ -61,12 +67,8 @@ Intermediate
 9. Adding an access point (AP) to the cluster
    - using the head node as an AP
    - creating an AP with RaspAP
-
-## Cohesion measures
-The presenters of this tutorial are all developers of the CarpentriesOffline project. They will take turns presenting parts while the other presenters act as helpers
-
-## Detailed Outline
-
+10. Preparing and delivering a Carpentries "Intro to HPC" workshop.
+    
 
 ## Hands-on feasibility check/analysis
 It is the first time this tutorial will be presented. We will be submitting this tutorial in similar formats to CarpentryCon Heidelberg and RSECon24 which will occur before SC24. Since the tutorial is aimed at instructors and developers we hope to get feedback from participants concerning further development of the CarpentriesOffline miniHPC project as well as the content of the tutorial for future sessions. 
@@ -74,5 +76,7 @@ It is the first time this tutorial will be presented. We will be submitting this
 ## Resume or CV for each presenter
 
 ## Release statement
+We agree to release a digital copy of the notes for the SC24 tutorial.
 
 ## Request for travel support
+We would like to request travel support for three presenters from the UK.
