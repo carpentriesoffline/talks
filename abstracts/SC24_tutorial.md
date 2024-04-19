@@ -1,7 +1,14 @@
 # SC24 Tutorial Submission
 https://sc24.supercomputing.org/program/tutorials/
 
-##Title
+## Session Collaborators:
+Name: Jannetta Steyn, email: Jannetta.Steyn@newcastle.ac.uk, ORCID: 0000-0002-0231-9897, Institution: Newcastle University, Country: United Kingdom, Job title: Senior Research Software Engineer
+
+Name: Colin Sauze, email: colin.sauze@noc.ac.uk , ORCID: 0000-0001-5368-9217, Institution: National Oceanography Centre, Country: United Kingdom, Job title: Senior Research Software Engineer
+
+Name: Abhishek Dasgupta , email: abhishek.dasgupta@dtc.ox.ac.uk , ORCID: 0000-0003-4420-0656, Institution: University of Oxford, Country: United Kingdom, Job title: Senior Research Software Engineer
+
+## Title
 Building a miniHPC for delivering HPC Carpentries and other HPC-related workshops
 
 ## Abstract
