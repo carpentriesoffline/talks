@@ -1,5 +1,8 @@
 # How to build and use a miniHPC for training (50 words max)
 
+## Authors
+Name: Jannetta Steyn, email: Jannetta.Steyn@newcastle.ac.uk, ORCID: 0000-0002-0231-9897, Institution: Newcastle University, Country: United Kingdom, Job title: Senior Research Software Engineer
+
 ## Abstract (250 words max)
 ***Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission. For accepted submissions, these details will appear in the programme.***
 
