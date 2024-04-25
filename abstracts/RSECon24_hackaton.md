@@ -13,10 +13,18 @@ There are several problems with gaining access to an HPC to run a workshop for s
 
 1. Attendees will need a laptop and, if possible, if they own any Raspberry Pi 4 or 5s to bring them along.
 1. Basic knowledge of bash scripting
-1. Basic knowledge of Linux and how to install software
+2. Online attendees will need a laptop and at least two Raspberry Pis
 
 ## Outcomes (150 words max)
 ***How will your attendees benefit from your session? What are the expected outcomes? For accepted submissions, these details will appear in the programme.***
+
+**At the end of part one, attendees will have completed the steps of:**
+1. Writing a RPi OS to an SD card using the Raspberry Pi Imager
+2. turning one computer into a head node and another computer into a compute node by installing and configuring the appropriate software
+4. creating a network of the two nodes with a hub
+
+At the end of part two, attendees will have contributed to the further development and testing of the CarpentriesOffline learning materials and website.
+
 
 ## Technical Plan
 ***Please answer the following questions:***
@@ -26,6 +34,8 @@ There are several problems with gaining access to an HPC to run a workshop for s
 1. ***Bearing in mind that you will have both in-person and online attendees, how many could you reasonably deliver your Workshop to?***
 1. ***What software and/or tooling will you be providing access to?***
 1. ***What will attendees need to install in advance or bring along (e.g. a piece of their own code)?***
+
+
 
 ## Accessibility
 ***Please comment on how you will ensure your content is accessible, which may include referring to relevant sections of the conference’s accessibility guidance, as well as any other considerations such as considered the contract of colours, and the shape and size of graphics and fonts. You can also use automated accessibility checking tools to help.***
