@@ -35,7 +35,10 @@ At the end of part two, attendees will have contributed to the further developme
 1. ***What software and/or tooling will you be providing access to?***
 1. ***What will attendees need to install in advance or bring along (e.g. a piece of their own code)?***
 
-
+1. The organisers will bring some Raspberry Pis and Rock Pis, SD cards, networking cables and switches
+2. Attendees need to bring a laptop with an ssh client, such as PuTTY on Windows or openssh client on Linux installed. If they don't have the software installed they will need admin rights to the laptop so that the software can be installed during the workshop.
+3. Online attendees should be able to follow along if they have RPis of their and a laptop whith which they can ssh into the RPis while following instructors in Zoom.
+4. If possible attendees should try to install the RPi Imager and ssh client beforehand but if they can't we will go through the process in the workshop. The software is downloadable for free from the Internet. The instructors will have copies on site in case it is neccesary.
 
 ## Accessibility
 ***Please comment on how you will ensure your content is accessible, which may include referring to relevant sections of the conference’s accessibility guidance, as well as any other considerations such as considered the contract of colours, and the shape and size of graphics and fonts. You can also use automated accessibility checking tools to help.***
