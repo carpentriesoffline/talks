@@ -6,7 +6,7 @@ Name: Jannetta Steyn, email: Jannetta.Steyn@newcastle.ac.uk, ORCID: 0000-0002-02
 ## Abstract (250 words max)
 ***Enter an abstract of your submission. This should be a brief and attention-grabbing summary of your submission. For accepted submissions, these details will appear in the programme.***
 
-There are several problems with gaining access to an HPC to run a workshop for students. An alternative is to build a mini HPC out of single board computers (SBC) such as Raspberry Pis but this is not an easy task. The first half of this workshop aims to introduce the CarpentriesOffline miniHPC solution which allow instructors without specialised HPC hardware and software knowledge to run HPC Carpentries workshops. Delivery of the workshop will be done in the typical Carpentries live coding style. The second half of the workshop will take the form of a hackerthon. There is still a great deal of development to be done for CarpentriesOffline which includes tasks such as modifications of existing Carpentries lessons, onboarding lessons for instructor in the CarpentriesOffline way, scripting of the miniHPC tasks and creating Rapsberry Pi images for writing to SD cards etc.
+There are several problems with gaining access to an HPC to run a workshop for students. An alternative is to build a mini HPC out of single board computers (SBC) such as Raspberry Pis but this is not an easy task. This workshop aims to introduce the CarpentriesOffline miniHPC solution which allow instructors without specialised HPC hardware and software knowledge to run HPC Carpentries workshops. Delivery of the workshop will be done in the typical Carpentries live coding style. 
 
 ## Prerequisites (150 words max)
 ***Describe the required skills or knowledge for an attendee to engage with your submission. Have you considered how accessible your session will be to a diverse conference audience (attendees comprise people from academia, industry, charity and government, from beginners to experts)? For accepted submissions, these details will appear in the programme.***
@@ -18,13 +18,10 @@ There are several problems with gaining access to an HPC to run a workshop for s
 ## Outcomes (150 words max)
 ***How will your attendees benefit from your session? What are the expected outcomes? For accepted submissions, these details will appear in the programme.***
 
-**At the end of part one, attendees will have completed the steps of:**
+**At the end of this session attendees will have completed the following: **
 1. Writing an RPi OS to an SD card using the Raspberry Pi Imager
 2. turning one computer into a head node and another computer into a compute node by installing and configuring the appropriate software
 4. creating a network of the two nodes with a hub
-
-At the end of part two, attendees will have contributed to the further development and testing of the CarpentriesOffline learning materials and website.
-
 
 ## Technical Plan
 ***Please answer the following questions:***
@@ -36,7 +33,7 @@ At the end of part two, attendees will have contributed to the further developme
 - ***What will attendees need to install in advance or bring along (e.g. a piece of their own code)?***
 
 
-1. The organisers will bring some Raspberry Pis and Rock Pis, SD cards, networking cables and switches
+1. The organisers will bring some Raspberry Pis, SD cards, networking cables and switches
 2. Attendees need to bring a laptop with an ssh client installed, such as PuTTY on Windows or openssh client on Linux. If they don't have the software installed they will need admin rights to the laptop so that the software can be installed during the workshop.
 3. Online attendees should be able to follow along if they have at least two RPis of their own and a laptop with which they can ssh into the RPis while following instructors in Zoom. They will need on SD card or USB SSD for one of the RPIs and the RPis and laptop need to be connected via an Ethernet or WiFi network.
 4. If possible attendees should try to install the RPi Imager and ssh client beforehand but if they can't we will go through the process in the workshop. The software is downloadable for free from the Internet. The instructors will have copies on site in case it is neccesary.
